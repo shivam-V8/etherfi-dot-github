@@ -7,14 +7,14 @@ First off, thank you for considering contributing to `ether.fi`! It's people lik
 - **Clone the repository**: This is essential if you're planning to contribute back to the main project. Once cloned, you can begin work.
   
   ```bash
-  git clone https://github.com/etherfi-protocol/respository.git
+  git clone https://github.com/etherfi-protocol/<repository>.git
   ```
 
-- **Set up your environment**: Ensure that you have all the necessary dependencies and tools installed. Follow our [setup guide](#) to prepare your local environment.
+- **Set up your environment**: Ensure that you have all the necessary dependencies and tools installed. Each repository's README has the setup steps (for example, the [smart-contracts getting started section](https://github.com/etherfi-protocol/smart-contracts#getting-started)).
 
-- **Find an issue to work on**: Check our [issues page](https://github.com/etherfi-protocol/issues) for tasks or bugs that need attention. If you have a new feature in mind, it's a good idea to open a new issue to discuss it.
+- **Find an issue to work on**: Check the [open issues across the organization](https://github.com/search?q=org%3Aetherfi-protocol+is%3Aissue+is%3Aopen&type=issues) for tasks or bugs that need attention. If you have a new feature in mind, it's a good idea to open a new issue to discuss it.
 
-- **Branch name conventions**: `ether.fi` uses a specific branch naming strategy, please follow these guidlines:
+- **Branch name conventions**: `ether.fi` uses a specific branch naming strategy, please follow these guidelines:
 When creating a new branch, use the following format: `[contributor-name]-[type]-[description]`.
 
 - **[contributor-name]**: Your GitHub username or a short form of your name.
@@ -60,7 +60,7 @@ When creating a new branch, use the following format: `[contributor-name]-[type]
 
 ## Feedback
 
-The best way to send feedback is to file an issue at https://github.com/ether-fi/ether.fi/issues.
+The best way to send feedback is to file an issue on the relevant repository under the [etherfi-protocol organization](https://github.com/orgs/etherfi-protocol/repositories).
 
 If you're proposing a feature:
 
